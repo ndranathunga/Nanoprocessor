@@ -1,0 +1,12 @@
+
+{ 
+    crc :  6476535134782563510  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto acf386116f8441e2b77c9aee4404d2de --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Nano_Sim_behav xil_defaultlib.Nano_Sim" , 
+    buildDate : "Jun 14 2018" , 
+    buildTime : "20:41:02" , 
+    linkCmd : "C:\\Xilinx\\Vivado\\2018.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/Nano_Sim_behav/xsimk.exe\"   \"xsim.dir/Nano_Sim_behav/obj/xsim_0.win64.obj\" \"xsim.dir/Nano_Sim_behav/obj/xsim_1.win64.obj\" \"C:\\Xilinx\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simulator_kernel.dll\"  \"C:\\Xilinx\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simbridge_kernel.dll\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

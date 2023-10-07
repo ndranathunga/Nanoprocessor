@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../NEW_MICRO.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Decoder_3_to_8.vhd" \
+"../../../../NEW_MICRO.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Reg.vhd" \
+"../../../../NEW_MICRO.srcs/sources_1/imports/sources_1/imports/sources_1/new/RegBank.vhd" \
+"../../../../NEW_MICRO.srcs/sources_1/imports/sources_1/imports/new/Slow_Clk.vhd" \
+"../../RB_Sim.vhd" \
+
+# Do not sort compile order
+nosort

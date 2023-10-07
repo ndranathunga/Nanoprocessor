@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Jul 14 11:33:01 2022
+# Process ID: 58416
+# Current directory: C:/Users/Nisal D Ranathunga/Desktop/NEW_MICRO/NEW_MICRO.sim/ID_Sim/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Nisal D Ranathunga/Desktop/NEW_MICRO/NEW_MICRO.sim/ID_Sim/behav/xsim/xsim.dir/Nanoprocessor_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Nisal D Ranathunga/Desktop/NEW_MICRO/NEW_MICRO.sim/ID_Sim/behav/xsim/webtalk.log
+# Journal file: C:/Users/Nisal D Ranathunga/Desktop/NEW_MICRO/NEW_MICRO.sim/ID_Sim/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Nisal -notrace
+invalid command name "[0D90:5CE8][2022-02-16T00:39:57]i001:"
+    while executing
+"[0D90:5CE8][2022-02-16T00:39:57]i001: Burn v3.10.4.4718, Windows v10.0 (Build 22000: Service Pack 0), path: C:\WINDOWS\Temp\{F2C3A154-75F9-4009-B60E-B..."
+    (file "C:/Users/Nisal" line 1)
+INFO: [Common 17-206] Exiting Webtalk at Thu Jul 14 11:33:01 2022...
